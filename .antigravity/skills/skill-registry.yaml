@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: gambian-restitution-roadmap-and-qsf-trust-execution
-  name: Gambian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/gambian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_gm_001
+    name: Gambia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_002
+    name: Gambia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_003
+    name: Gambia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_004
+    name: Gambia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_005
+    name: Gambia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_006
+    name: Gambia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_007
+    name: Gambia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_008
+    name: Gambia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_009
+    name: Gambia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_010
+    name: Gambia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_011
+    name: Gambia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_012
+    name: Gambia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_013
+    name: Gambia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_014
+    name: Gambia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_015
+    name: Gambia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_016
+    name: Gambia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_017
+    name: Gambia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_018
+    name: Gambia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_019
+    name: Gambia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_020
+    name: Gambia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_021
+    name: Gambia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_022
+    name: Gambia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_023
+    name: Gambia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_024
+    name: Gambia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_025
+    name: Gambia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_026
+    name: Gambia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_027
+    name: Gambia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_028
+    name: Gambia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_029
+    name: Gambia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_030
+    name: Gambia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_031
+    name: Gambia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_032
+    name: Gambia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_033
+    name: Gambia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_034
+    name: Gambia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_035
+    name: Gambia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_036
+    name: Gambia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_037
+    name: Gambia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_038
+    name: Gambia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_039
+    name: Gambia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_040
+    name: Gambia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_041
+    name: Gambia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_042
+    name: Gambia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_043
+    name: Gambia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_044
+    name: Gambia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_045
+    name: Gambia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_046
+    name: Gambia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_047
+    name: Gambia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_048
+    name: Gambia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_049
+    name: Gambia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_050
+    name: Gambia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_051
+    name: Gambia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_052
+    name: Gambia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_053
+    name: Gambia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_054
+    name: Gambia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_055
+    name: Gambia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_056
+    name: Gambia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_057
+    name: Gambia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_058
+    name: Gambia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_059
+    name: Gambia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_060
+    name: Gambia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_061
+    name: Gambia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_062
+    name: Gambia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_063
+    name: Gambia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_064
+    name: Gambia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_065
+    name: Gambia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_066
+    name: Gambia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_067
+    name: Gambia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_068
+    name: Gambia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_069
+    name: Gambia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_070
+    name: Gambia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_071
+    name: Gambia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_072
+    name: Gambia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_073
+    name: Gambia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_074
+    name: Gambia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_075
+    name: Gambia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_076
+    name: Gambia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_077
+    name: Gambia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_078
+    name: Gambia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_079
+    name: Gambia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_080
+    name: Gambia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_081
+    name: Gambia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_082
+    name: Gambia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_083
+    name: Gambia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_084
+    name: Gambia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_085
+    name: Gambia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_086
+    name: Gambia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_087
+    name: Gambia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_088
+    name: Gambia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_089
+    name: Gambia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_090
+    name: Gambia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_091
+    name: Gambia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_092
+    name: Gambia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_093
+    name: Gambia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_094
+    name: Gambia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_095
+    name: Gambia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_096
+    name: Gambia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_097
+    name: Gambia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_098
+    name: Gambia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_099
+    name: Gambia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_100
+    name: Gambia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_101
+    name: Gambia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_102
+    name: Gambia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_103
+    name: Gambia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_104
+    name: Gambia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_105
+    name: Gambia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_106
+    name: Gambia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_107
+    name: Gambia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_108
+    name: Gambia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_109
+    name: Gambia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_110
+    name: Gambia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_111
+    name: Gambia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_112
+    name: Gambia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_113
+    name: Gambia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_114
+    name: Gambia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_115
+    name: Gambia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_116
+    name: Gambia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_117
+    name: Gambia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_118
+    name: Gambia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_119
+    name: Gambia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_120
+    name: Gambia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_121
+    name: Gambia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_122
+    name: Gambia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_123
+    name: Gambia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_124
+    name: Gambia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_125
+    name: Gambia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_126
+    name: Gambia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_127
+    name: Gambia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_128
+    name: Gambia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_129
+    name: Gambia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_130
+    name: Gambia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_131
+    name: Gambia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_132
+    name: Gambia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_133
+    name: Gambia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_134
+    name: Gambia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_135
+    name: Gambia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_136
+    name: Gambia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_137
+    name: Gambia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_138
+    name: Gambia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_139
+    name: Gambia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_140
+    name: Gambia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_141
+    name: Gambia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_142
+    name: Gambia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_143
+    name: Gambia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_144
+    name: Gambia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_145
+    name: Gambia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_146
+    name: Gambia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_147
+    name: Gambia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_148
+    name: Gambia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_149
+    name: Gambia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_150
+    name: Gambia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_151
+    name: Gambia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_152
+    name: Gambia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_153
+    name: Gambia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_154
+    name: Gambia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_155
+    name: Gambia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_156
+    name: Gambia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_157
+    name: Gambia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_158
+    name: Gambia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_159
+    name: Gambia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_160
+    name: Gambia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_161
+    name: Gambia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_162
+    name: Gambia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_163
+    name: Gambia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_164
+    name: Gambia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_165
+    name: Gambia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_166
+    name: Gambia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_167
+    name: Gambia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_168
+    name: Gambia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_169
+    name: Gambia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_170
+    name: Gambia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_171
+    name: Gambia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_172
+    name: Gambia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_173
+    name: Gambia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_174
+    name: Gambia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_175
+    name: Gambia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_176
+    name: Gambia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_177
+    name: Gambia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_178
+    name: Gambia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_179
+    name: Gambia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_180
+    name: Gambia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_181
+    name: Gambia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_182
+    name: Gambia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_183
+    name: Gambia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_184
+    name: Gambia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_185
+    name: Gambia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_186
+    name: Gambia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_187
+    name: Gambia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_188
+    name: Gambia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_189
+    name: Gambia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_190
+    name: Gambia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_191
+    name: Gambia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_192
+    name: Gambia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_193
+    name: Gambia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_194
+    name: Gambia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_195
+    name: Gambia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_196
+    name: Gambia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_197
+    name: Gambia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_198
+    name: Gambia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_199
+    name: Gambia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_200
+    name: Gambia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_201
+    name: Gambia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_202
+    name: Gambia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_203
+    name: Gambia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_204
+    name: Gambia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_205
+    name: Gambia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_206
+    name: Gambia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_207
+    name: Gambia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_208
+    name: Gambia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_209
+    name: Gambia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_210
+    name: Gambia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_211
+    name: Gambia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_212
+    name: Gambia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_213
+    name: Gambia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_214
+    name: Gambia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_215
+    name: Gambia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_216
+    name: Gambia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_217
+    name: Gambia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_218
+    name: Gambia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_219
+    name: Gambia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_220
+    name: Gambia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_221
+    name: Gambia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_222
+    name: Gambia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_223
+    name: Gambia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_224
+    name: Gambia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_225
+    name: Gambia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_226
+    name: Gambia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_227
+    name: Gambia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_228
+    name: Gambia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_229
+    name: Gambia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_230
+    name: Gambia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_231
+    name: Gambia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_232
+    name: Gambia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_233
+    name: Gambia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_234
+    name: Gambia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_235
+    name: Gambia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_236
+    name: Gambia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_237
+    name: Gambia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_238
+    name: Gambia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_239
+    name: Gambia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_240
+    name: Gambia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_241
+    name: Gambia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_242
+    name: Gambia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_243
+    name: Gambia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_244
+    name: Gambia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_245
+    name: Gambia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_246
+    name: Gambia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_247
+    name: Gambia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_248
+    name: Gambia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_249
+    name: Gambia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_250
+    name: Gambia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_251
+    name: Gambia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gm_252
+    name: Gambia Skill 252
+    status: ACTIVE_SCAFFOLD
