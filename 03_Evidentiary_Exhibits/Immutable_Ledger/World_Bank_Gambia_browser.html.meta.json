@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/gambia-the",
+  "final_url": "https://data.worldbank.org/country/gambia-the",
+  "title": "World Bank Gambia",
+  "fetched_at": "2026-11-23T06:01:30.940527Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44515,
+  "sha256": "e19356637c0752ba524fc994313febaa4ee2c1f143655c5dde2e961b474c0259",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF interstitial; not substantive evidence. Pending recapture."
+}

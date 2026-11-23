@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=gambia+slavery+colonial",
+  "final_url": "https://www.loc.gov/item/?q=gambia+slavery+colonial",
+  "title": "Library of Congress - Gambia",
+  "fetched_at": "2026-11-23T06:01:30.722115Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44536,
+  "sha256": "72edd71c2b64ad6fbb2cac699f26fa454e8d0d03e3df5b1f1684597d75d66faa",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF interstitial; not substantive evidence. Pending recapture."
+}

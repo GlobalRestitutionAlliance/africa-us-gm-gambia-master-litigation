@@ -34,5 +34,6 @@
     "cf-cache-status": "DYNAMIC",
     "CF-RAY": "a5e2e5e53a88c13e-MIA",
     "alt-svc": "h3=\":443\"; ma=86400"
-  }
+  },
+  "substantive": true
 }
