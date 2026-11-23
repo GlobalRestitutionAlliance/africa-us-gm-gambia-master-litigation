@@ -1,0 +1,17 @@
+{
+  "url": "https://discovery.nationalarchives.gov.uk/details/a?_q=gambia+slavery",
+  "final_url": "https://discovery.nationalarchives.gov.uk/details/a?_q=gambia+slavery",
+  "title": "National Archives UK - Gambia",
+  "fetched_at": "2026-11-23T02:07:15.446699Z",
+  "http_status": 202,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 0,
+  "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "provenance": "direct-http-capture",
+  "custodian": "OpenCode/harvest",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "substantive": false,
+  "quality_flag": "EMPTY_CAPTURE_PENDING_RECAPTURE",
+  "annotation_note": "Empty capture artifact (0 bytes, http_status=202 in meta); pending recapture."
+}
